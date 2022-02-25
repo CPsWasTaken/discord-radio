@@ -2,7 +2,7 @@
   "name": "discord-radio",
   "version": "0.0.1",
   "description": "discord radio stations",
-  "main": "./src/index.js",
+  "main": "./index.js",
   "scripts": {
     "start": "node .",
     "node-update": "npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hadiazt/discord-radio.git"
+    "url": "git+https://github.com/hadiazt/discord-radio/tree/harmony-radio.git"
   },
   "keywords": [
     "discord",
@@ -22,9 +22,9 @@
   "author": "hadi.az",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hadiazt/discord-radio/issues"
+    "url": "https://github.com/hadiazt/discord-radio/tree/harmony-radio/issues"
   },
-  "homepage": "https://github.com/hadiazt/discord-radio#readme",
+  "homepage": "https://github.com/hadiazt/discord-radio/tree/harmony-radio#readme",
   "devDependencies": {
     "node": "^16.6.1"
   },
