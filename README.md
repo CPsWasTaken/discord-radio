@@ -1,81 +1,19 @@
 <h1 align="center">
-  <img src="https://cdn.discordapp.com/attachments/780443230176280596/946798705867104326/Logo-de-World-Hits-Radio-removebg-preview.png" width="224px" alt="radio"/>
+  <img src="https://cdn.discordapp.com/icons/578558255392096256/a_449105a9aa8643b70c903c0b2c9ea466.gif?size=4096" width="224px" alt="radio"/>
 <br/>
-Discord Radio
+Harmony Radio Bot's
 </h1>
-<h3 align="center">An <a href="https://nodejs.org/">NODE</a> Module For Playing Avalible Stations Into Discord Voice Channel Called <a href="https://www.npmjs.com/package/discord-radio">Discord-Radio</a></h3>
-<h3 align="center">Using : <a href="https://www.npmjs.com/package/@discordjs/voice">@discordjs/voice</a> | <a href="https://www.npmjs.com/package/discord.js">discord.js </a> | <a href="https://www.npmjs.com/package/ffmpeg-static">ffmpeg-static</a> | <a href="https://www.npmjs.com/package/opusscript">opusscript</a> | <a href="https://www.npmjs.com/package/libsodium-wrappers">libsodium-wrappers</a></h3>
 
-# 
-## Functions :
-</br>
-<h4 align="center">
-ARAB - BASS  - DANCE  - DISCO  - ELECTRONIC  - FARDA  - ILOVE  - JAVAN  - JAZZ  - KPOP  - LOFI  - LOFIANIME  - LOFIPANDA  - POP  - ROCK
-</h4>
+<h3 align="center">Using : <a href="https://www.npmjs.com/package/discord-radio">Discord-Radio</a></h3>
 
-# 
 
-## Function Object Info :
-</br>
-
-```
-channelID : The Voice Channel ID That You Want To Play The Radio
-```
-```
-guildID : The Server ID That Voice Channel Is There
-```
-```
-logID : The Text Channel ID To Log The Bot Actions (Make Sure Bot Has SEND_MESSAGES Permission)
-```
-```
-TOKEN : Bot Token 
-```
-## Example Of Usage :
-
-```js
-const { KPOP , JAZZ } = require('discord-radio')
-
-KPOP({
-    channelID: 'VOICE_ID',
-    guildID: 'SERVER_ID',
-    logID: 'LOG_CHANNEL_ID',
-    TOKEN: 'YOUR_BOT_TOKEN'
-})
-
-JAZZ({
-    channelID: 'VOICE_ID',
-    guildID: 'SERVER_ID',
-    logID: 'LOG_CHANNEL_ID',
-    TOKEN: 'YOUR_BOT_TOKEN'
-})
-
-// --------- OR --------- //
-
-const RADIO = require('discord-radio')
-
-RADIO.JAZZ({
-    channelID: 'VOICE_ID',
-    guildID: 'SERVER_ID',
-    logID: 'LOG_CHANNEL_ID',
-    TOKEN: 'YOUR_BOT_TOKEN'
-})
-
-RADIO.POP({
-    channelID: 'VOICE_ID',
-    guildID: 'SERVER_ID',
-    logID: 'LOG_CHANNEL_ID',
-    TOKEN: 'YOUR_BOT_TOKEN'
-})
-
-```
-Or Visit [test](https://github.com/hadiazt/discord-radio/blob/main/index.test.js) File 
 
 </br>
 
 <p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hadiazt/discord-radio">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hadiazt/discord-radio/tree/harmony-radio">
     &nbsp;
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hadiazt/discord-radio">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hadiazt/discord-radio/tree/harmony-radio">
     &nbsp;
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
     &nbsp;
@@ -89,16 +27,16 @@ Or Visit [test](https://github.com/hadiazt/discord-radio/blob/main/index.test.js
 ## 📊 Repo Stats
 
 <p align="left">
-    <img src="https://img.shields.io/github/forks/hadiazt/discord-radio.svg" alt="forks">
-    <img src="https://img.shields.io/github/stars/hadiazt/discord-radio.svg" alt="stars">
-    <img src="https://img.shields.io/github/watchers/hadiazt/discord-radio.svg" alt="watchers">
+    <img src="https://img.shields.io/github/forks/hadiazt//discord-radio/tree/harmony-radio.svg" alt="forks">
+    <img src="https://img.shields.io/github/stars/hadiazt//discord-radio/tree/harmony-radio.svg" alt="stars">
+    <img src="https://img.shields.io/github/watchers/hadiazt//discord-radio/tree/harmony-radio.svg" alt="watchers">
 </p>
 
 <br/>
 
 ## 🤝 Contributing
-1. [Fork the repository](https://github.com/hadiazt/discord-radio/fork)
-2. Clone your fork: `git clone https://github.com/your-username/discord-radio.git`
+1. [Fork the repository](https://github.com/hadiazt//discord-radio/tree/harmony-radio/fork)
+2. Clone your fork: `git clone https://github.com/your-username/discord-radio/tree/harmony-radio.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
 5. Push to the branch: `git push origin my-new-feature`
