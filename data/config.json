@@ -1,0 +1,36 @@
+{
+    "GUILD": "",
+    "LOG": "",
+    "ILOVE": {
+        "token": "BOT_TOKEN",
+        "vcid": "VOICE_ID"
+    },
+    "BASS": {
+        "token": "BOT_TOKEN",
+        "vcid": "VOICE_ID"
+    },
+    "LOFI": {
+        "token": "BOT_TOKEN",
+        "vcid": "VOICE_ID"
+    },
+    "JAVAN": {
+        "token": "BOT_TOKEN",
+        "vcid": "VOICE_ID"
+    },
+    "POP": {
+        "token": "BOT_TOKEN",
+        "vcid": "VOICE_ID"
+    },
+    "LOFIPANDA": {
+        "token": "BOT_TOKEN",
+        "vcid": "VOICE_ID"
+    },
+    "KPOP": {
+        "token": "BOT_TOKEN",
+        "vcid": "VOICE_ID"
+    },
+    "LOFIANIME": {
+        "token": "BOT_TOKEN",
+        "vcid": "VOICE_ID"
+    }
+}
